@@ -5,4 +5,11 @@ public class People{
         Boolean a = false;
         return a; 
     }
+    
+    //constructor
+    public People(){
+        name = "";
+        age = 10;
+    }
+    
 }
